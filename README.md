@@ -26,12 +26,17 @@ b站/抖音/小红书/等[@积木研究圆](https://space.bilibili.com/6888083?s
 
 [【精致手工】超精致的Molly盲盒遥控小车改装教学，赶紧上车！！！](https://www.bilibili.com/video/BV1tP4y1i7FT/?spm_id_from=333.999.0.0&vd_source=89cad0e1890ff49027d6a9f92e9147a6)
 
+<img src="./docs/car20221013.png" width="180" height="105"> 
 
-<img src="./docs/mollycar.png" width="180" height="105"> 
+[【精致手工】从零开始的超精致遥控风火轮超跑小车改装，为你的小车注入灵魂，全是干货](https://www.bilibili.com/video/BV1Wg411a7io/?spm_id_from=333.999.0.0&vd_source=89cad0e1890ff49027d6a9f92e9147a6)
 
+<img src="./docs/car20220912.png" width="180" height="105">
 
-[【精致手工】超精致的Molly盲盒遥控小车改装教学，赶紧上车！！！](https://www.bilibili.com/video/BV1tP4y1i7FT/?spm_id_from=333.999.0.0&vd_source=89cad0e1890ff49027d6a9f92e9147a6)
+[【精致手工】从零开始的超精致遥控风火轮奥迪小车改装](https://www.bilibili.com/video/BV1X14y1e7VX/?spm_id_from=333.999.0.0&vd_source=89cad0e1890ff49027d6a9f92e9147a6)
 
+<img src="./docs/car20220819.png" width="180" height="105"> 
+
+[【精致手工】超精致遥控风火轮BMW小车改装过程](https://www.bilibili.com/video/BV1zN4y1F7QH/?spm_id_from=333.999.0.0&vd_source=89cad0e1890ff49027d6a9f92e9147a6)
 
 此外接下来将重点介绍些改装过程中的一些细节，以免大家踩坑
 
