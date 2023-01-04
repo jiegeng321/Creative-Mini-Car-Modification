@@ -1,6 +1,4 @@
-
-
-#迷你小车改装遥控车教程
+# 迷你小车改装遥控车教程
 
 开源目录
 
@@ -26,25 +24,16 @@ code：代码部分,主要是主控板所使用芯片（stm32c6t6）的控制程
 
 b站/抖音/小红书/等@积木研究圆，持续更新，欢迎关注
 
+<img src="./docs/mollycar.png" width="180" height="105" >
+
+[【精致手工】超精致的Molly盲盒遥控小车改装教学，赶紧上车！！！](https://www.bilibili.com/video/BV1tP4y1i7FT/?spm_id_from=333.999.0.0&vd_source=89cad0e1890ff49027d6a9f92e9147a6)
 
 
-<img src="./docs/mollycar.png" width="180" height="105" align="left">
-.
+<img src="./docs/mollycar.png" width="180" height="105"> 
 
 
 [【精致手工】超精致的Molly盲盒遥控小车改装教学，赶紧上车！！！](https://www.bilibili.com/video/BV1tP4y1i7FT/?spm_id_from=333.999.0.0&vd_source=89cad0e1890ff49027d6a9f92e9147a6)
 
-.
-
-
-
-<img src="./docs/mollycar.png" width="180" height="105" align="left"> 
-
-.
-
-[【精致手工】超精致的Molly盲盒遥控小车改装教学，赶紧上车！！！](https://www.bilibili.com/video/BV1tP4y1i7FT/?spm_id_from=333.999.0.0&vd_source=89cad0e1890ff49027d6a9f92e9147a6)
-
-.
 
 此外接下来将重点介绍些改装过程中的一些细节，以免大家踩坑
 
