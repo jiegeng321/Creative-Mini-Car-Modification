@@ -26,10 +26,9 @@ code：代码部分,主要是主控板所使用芯片（stm32c6t6）的控制程
 
 b站/抖音/小红书/等@积木研究圆，持续更新，欢迎关注
 
-[//]: # (![]&#40;H:\Creative-Mini-Car-Modification\docs\mollycar.png&#41;)
 
 
-<img src="H:\Creative-Mini-Car-Modification\docs\mollycar.png" width="180" height="105" align="left">
+<img src="https://github.com/jiegeng321/Creative-Mini-Car-Modification/docs/mollycar.png" width="180" height="105" align="left">
 .
 
 
