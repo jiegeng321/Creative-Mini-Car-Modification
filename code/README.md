@@ -1,1 +1,22 @@
-# Creative-Mini-Car-Modification
+# 小车改装3D模型介绍
+
+## 开源目录
+
+- CubeIDE_WorkSpace_MiniCar: CubeIDE所有项目文件压缩包，解压后可直接打开
+- Inc: 头文件
+- Src: 源代码
+- Startup: 芯片stm32f103c6t6的Startup文件
+
+
+主控芯片中的程序使用st官方CUBE IDE编写，使用CUBE IDE导入或者取需要部分到自己代码中都可
+
+## 下载方式：
+
+- 1、st link下载，网上购买即可，代码导入CUBE IDE后，插上st link，st link另一端接到芯片相应接口
+
+- 2、串口下载，使用USB转TTL模块，连接芯片串口uart1，电脑端将编译好的hex文件，通过串口助手下载
+
+- 3、总出问题或嫌麻烦，该芯片组部分已量产，可直接咸鱼@积木研究圆购买，各模块已焊好，芯片已下好程序
+
+## 注意
+- 代码未写注释且不保证最优，但可正常运行，有空会来优化
