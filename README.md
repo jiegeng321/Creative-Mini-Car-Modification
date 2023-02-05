@@ -42,7 +42,7 @@ b站/抖音/小红书/等[@积木研究圆](https://space.bilibili.com/6888083?s
 ### 3.2、芯片部分焊接
 [【视频教程】芯片套件使用教程](https://www.bilibili.com/video/BV1zN4y1F7QH/?spm_id_from=333.999.0.0&vd_source=89cad0e1890ff49027d6a9f92e9147a6)
 
-[【文档教程】芯片套件使用教程](https://www.wolai.com/w1vVhwLpsxBg7Ka8Gg3uaJ6)
+[【文档教程】芯片套件使用教程](https://www.wolai.com/w1vVhwLpsxBg7Ka8Gg3uaJ)
 
 3.2.1、四合一模块拆解
 
