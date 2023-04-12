@@ -23,6 +23,15 @@
 
 b站/抖音/小红书/等[@积木研究圆](https://space.bilibili.com/6888083?spm_id_from=333.1007.0.0)，持续更新，欢迎关注
 
+<img src="./docs/ft.jpg" width="180" height="105" >
+
+[【自制】超精致风火轮小车魔改遥控小车！全是干货已开源！！！](https://www.bilibili.com/video/BV1SX4y1R7Et/?vd_source=89cad0e1890ff49027d6a9f92e9147a6)
+
+<img src="./docs/ae86.jpg" width="180" height="105" >
+
+[【自制】【开源】小伙子，你这什么车啊？AE86 1:64遥控小车改装！！！](https://www.bilibili.com/video/BV1Nj411u79n/?vd_source=89cad0e1890ff49027d6a9f92e9147a6)
+
+
 <img src="./docs/mollycar.png" width="180" height="105" >
 
 [【精致手工】超精致的Molly盲盒遥控小车改装教学，赶紧上车！！！](https://www.bilibili.com/video/BV1tP4y1i7FT/?spm_id_from=333.999.0.0&vd_source=89cad0e1890ff49027d6a9f92e9147a6)
@@ -40,9 +49,9 @@ b站/抖音/小红书/等[@积木研究圆](https://space.bilibili.com/6888083?s
 [【精致手工】超精致遥控风火轮BMW小车改装过程](https://www.bilibili.com/video/BV1zN4y1F7QH/?spm_id_from=333.999.0.0&vd_source=89cad0e1890ff49027d6a9f92e9147a6)
 
 ### 3.2、芯片部分焊接
-[【视频教程】芯片套件使用教程](https://www.bilibili.com/video/BV1zN4y1F7QH/?spm_id_from=333.999.0.0&vd_source=89cad0e1890ff49027d6a9f92e9147a6)
+[【视频教程】芯片套件使用教程](https://www.bilibili.com/video/BV16s4y1m7GQ/?vd_source=89cad0e1890ff49027d6a9f92e9147a6)
 
-[【文档教程】芯片套件使用教程](https://www.wolai.com/w1vVhwLpsxBg7Ka8Gg3uaJ)
+[【文档教程】芯片套件使用教程](https://www.wolai.com/6ByrQANPkSRUSvC9mzMfy1)
 
 3.2.1、四合一模块拆解
 
@@ -87,8 +96,8 @@ b站/抖音/小红书/等[@积木研究圆](https://space.bilibili.com/6888083?s
 
 ## 四、获取
 
-通过开源的这些材料加上动手能力还行，即可完成自己的小车改装，如果嫌麻烦，作为量产区up主，电路部分（芯片组，包含各种电路板和一个红外接收头与遥控器），已半量产，后续更新详细使用教程，有需要的同学可各平台 **@积木研究圆**私信或留言。
+通过开源的这些材料加上动手能力还行，即可完成自己的小车改装，如果嫌麻烦，作为量产区up主，电路部分（芯片组，包含各种电路板和一个红外接收头与遥控器），已半量产，咸鱼可能有，后续更新详细使用教程，有需要的同学可各平台 **@积木研究圆**私信或留言。
 
 量产芯片组套件长这样
 
-<img src="./docs/product1.jpg" width="150" height="200"> <img src="./docs/product2.jpg" width="280" height="200">
+<img src="./docs/套件封面.jpg" width="200" height="200"> <img src="./docs/套件封面2.jpg" width="230" height="200">
