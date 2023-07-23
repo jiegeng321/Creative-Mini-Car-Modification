@@ -2,11 +2,19 @@
 
 ## 开源目录
 
+### 1:64系列
 - 3D model:3D模型，改装小车所需的零件（齿轮，雨刮器等，详见3Dmodel下的[README](/3D_model/README.md)）
-- pcb：电路部分,电路图和pcb（主控板，电源板，驱动板，充电板等详见pcb下的[README](/pcb/1比64系列/README.md)）
-- code：代码部分,主要是主控板所使用芯片（stm32c6t6）的控制程序（详见code下的[README](/code/1比64系列-STM32/README.md)）
+- pcb：电路部分,电路图和pcb（主控小板，电源小板，驱动小板，充电小板等详见pcb下的[README](/pcb/1比64系列/README.md)）
+- code：代码部分,主要是主控板所使用芯片（stm32f103）的控制程序（详见code下的[README](/code/1比64系列-STM32/README.md)）
+### 1:87系列
+- 3D model:3D模型，改装小车所需的零件（齿轮，雨刮器等，详见3Dmodel下的[README](/3D_model/README.md)）
+- pcb：电路部分,电路图和pcb（排插小板，充电小板等详见pcb下的[README](/pcb/1比87系列/README.md)）
+- code：代码部分,主要是主控板所使用芯片（stm8s003）的控制程序（详见code下的[README](/code/1比87系列-STM32/README.md)）
+### 保姆级教程
+- [【视频教程】套件焊接教程](https://www.bilibili.com/video/BV1zN4y1F7QH/?spm_id_from=333.999.0.0&vd_source=89cad0e1890ff49027d6a9f92e9147a6)
+- [【文档教程】改装套件使用教程](https://www.wolai.com/ksv9qGV1nwmhjUrozgD7f1)
 
-声明：以上种种开源材料均个人设计，能力有限并非全部最优，有bug或者更好的解决方案欢迎交流贡献，每个贡献者都会留下你们的名字哦
+声明：以上种种开源材料均个人设计，时间能力有限并非全部最优，有bug或者更好的解决方案欢迎交流贡献，每个贡献者都会留下你们的名字哦
 
 ## 一、看完本教程的你能获得什么？
 
@@ -21,7 +29,24 @@
 
 ### 3.1、实战视频
 
-b站/抖音/小红书/等[@积木研究圆](https://space.bilibili.com/6888083?spm_id_from=333.1007.0.0)，持续更新，欢迎关注
+#### b站/抖音/小红书/等[@积木研究圆](https://space.bilibili.com/6888083?spm_id_from=333.1007.0.0)，持续更新，欢迎关注
+
+<img src="./docs/car20230722.png" width="180" height="105" >
+
+[【自制】【开源】GTR小车改装教学，简单来个遥控灯光+喇叭](https://www.bilibili.com/video/BV1mk4y1G7Zi/?spm_id_from=333.999.0.0&vd_source=89cad0e1890ff49027d6a9f92e9147a6)
+
+<img src="./docs/car20230709.png" width="180" height="105" >
+
+[【自制】【开源】遥控小车改装 1:87系列第一辆实验车](https://www.bilibili.com/video/BV1Hh4y1E79n/?spm_id_from=333.999.0.0&vd_source=89cad0e1890ff49027d6a9f92e9147a6)
+
+<img src="./docs/car20230516.png" width="180" height="105" >
+
+[【自制】超精致遥控小车改装，红旗L5雨刮升级版！！！](https://www.bilibili.com/video/BV1os4y1B7c6/?spm_id_from=333.999.0.0&vd_source=89cad0e1890ff49027d6a9f92e9147a6)
+
+
+<img src="./docs/car20230428.png" width="180" height="105" >
+
+[【自制】超精致蝙蝠侠战车魔改遥控小车！全是干货已开源！！！](https://www.bilibili.com/video/BV1eh41177br/?spm_id_from=333.999.0.0&vd_source=89cad0e1890ff49027d6a9f92e9147a6)
 
 <img src="./docs/ft.jpg" width="180" height="105" >
 
@@ -48,50 +73,72 @@ b站/抖音/小红书/等[@积木研究圆](https://space.bilibili.com/6888083?s
 
 [【精致手工】超精致遥控风火轮BMW小车改装过程](https://www.bilibili.com/video/BV1zN4y1F7QH/?spm_id_from=333.999.0.0&vd_source=89cad0e1890ff49027d6a9f92e9147a6)
 
-### 3.2、芯片部分焊接
-[【视频教程】芯片套件使用教程](https://www.bilibili.com/video/BV16s4y1m7GQ/?vd_source=89cad0e1890ff49027d6a9f92e9147a6)
+[//]: # (### 3.2、芯片部分焊接)
 
-[【文档教程】芯片套件使用教程](https://www.wolai.com/6ByrQANPkSRUSvC9mzMfy1)
+[//]: # ([【视频教程】芯片套件使用教程]&#40;https://www.bilibili.com/video/BV16s4y1m7GQ/?vd_source=89cad0e1890ff49027d6a9f92e9147a6&#41;)
 
-3.2.1、四合一模块拆解
+[//]: # ()
+[//]: # ([【文档教程】芯片套件使用教程]&#40;https://www.wolai.com/6ByrQANPkSRUSvC9mzMfy1&#41;)
 
-<img src="./docs/四合一模块拆解.png" width="500" height="350">
+[//]: # ()
+[//]: # (3.2.1、四合一模块拆解)
 
-3.2.2、焊接电源和开关
+[//]: # ()
+[//]: # (<img src="./docs/四合一模块拆解.png" width="500" height="350">)
 
-<img src="./docs/焊接电池和开关.png" width="500" height="350">
+[//]: # ()
+[//]: # (3.2.2、焊接电源和开关)
 
-3.2.3、焊接红外接收头
+[//]: # ()
+[//]: # (<img src="./docs/焊接电池和开关.png" width="500" height="350">)
 
-<img src="./docs/焊接红外接收头和指示灯.png" width="500" height="350">
+[//]: # ()
+[//]: # (3.2.3、焊接红外接收头)
 
-3.2.4、焊接喇叭
+[//]: # ()
+[//]: # (<img src="./docs/焊接红外接收头和指示灯.png" width="500" height="350">)
 
-<img src="./docs/焊接蜂鸣器.png" width="500" height="350">
+[//]: # ()
+[//]: # (3.2.4、焊接喇叭)
 
-3.2.5、焊接电机
+[//]: # ()
+[//]: # (<img src="./docs/焊接蜂鸣器.png" width="500" height="350">)
 
-<img src="./docs/焊接电机.png" width="500" height="350">
+[//]: # ()
+[//]: # (3.2.5、焊接电机)
 
-3.2.6、焊接步进电机（雨刮器）
+[//]: # ()
+[//]: # (<img src="./docs/焊接电机.png" width="500" height="350">)
 
-<img src="./docs/焊接步进电机.png" width="500" height="350">
+[//]: # ()
+[//]: # (3.2.6、焊接步进电机（雨刮器）)
 
-3.2.7、焊接灯光
+[//]: # ()
+[//]: # (<img src="./docs/焊接步进电机.png" width="500" height="350">)
 
-<img src="./docs/焊接灯光.png" width="500" height="350">
+[//]: # ()
+[//]: # (3.2.7、焊接灯光)
 
-3.2.8、通断驱动小板使用
+[//]: # ()
+[//]: # (<img src="./docs/焊接灯光.png" width="500" height="350">)
 
-<img src="./docs/通断驱动小板使用.png" width="500" height="350">
+[//]: # ()
+[//]: # (3.2.8、通断驱动小板使用)
 
-3.2.9、正反驱动小板使用
+[//]: # ()
+[//]: # (<img src="./docs/通断驱动小板使用.png" width="500" height="350">)
 
-<img src="./docs/正反驱动小板使用.png" width="500" height="350">
+[//]: # ()
+[//]: # (3.2.9、正反驱动小板使用)
 
-3.2.10、充电小板使用
+[//]: # ()
+[//]: # (<img src="./docs/正反驱动小板使用.png" width="500" height="350">)
 
-<img src="./docs/充电小板使用.png" width="500" height="350">
+[//]: # ()
+[//]: # (3.2.10、充电小板使用)
+
+[//]: # ()
+[//]: # (<img src="./docs/充电小板使用.png" width="500" height="350">)
 
 
 ## 四、获取
