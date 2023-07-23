@@ -3,7 +3,7 @@
 ## 开源目录
 
 - 3D model:3D模型，改装小车所需的零件（齿轮，雨刮器等，详见3Dmodel下的[README](/3D_model/README.md)）
-- pcb：电路部分,电路图和pcb（主控板，电源板，驱动板，充电板等详见pcb下的[README](/pcb/README.md)）
+- pcb：电路部分,电路图和pcb（主控板，电源板，驱动板，充电板等详见pcb下的[README](/pcb/1比64系列/README.md)）
 - code：代码部分,主要是主控板所使用芯片（stm32c6t6）的控制程序（详见code下的[README](/code/README.md)）
 
 声明：以上种种开源材料均个人设计，能力有限并非全部最优，有bug或者更好的解决方案欢迎交流贡献，每个贡献者都会留下你们的名字哦
