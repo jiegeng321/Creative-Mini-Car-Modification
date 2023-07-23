@@ -2,13 +2,14 @@
 
 ## 开源目录
 
+- 1比64/87系列零件: 包含小车改装的一些车身组件，如雨刮器，驱动轮支架，转向轮支架等
+
+<img src="../docs/driver_1.png" width="180" height="180"> <img src="../docs/driver_2.png" width="180" height="180"> <img src="../docs/driver_3.png" width="180" height="180">
+
+
 - 齿轮: 后轮驱动齿轮，和前轮转向齿轮，0.2模数,有多种齿数
 
 <img src="../docs/cogs20230104.png" width="180" height="180" align=""> <img src="../docs/cogs20230105.png" width="180" height="180" align=""> <img src="../docs/cogs20230105_2.png" width="180" height="180" align="">
-
-- 小车零件: 包含小车改装的一些车身组件，如雨刮器，驱动轮支架，转向轮支架等
-
-<img src="../docs/driver_1.png" width="180" height="180"> <img src="../docs/driver_2.png" width="180" height="180"> <img src="../docs/driver_3.png" width="180" height="180">
 
 - 小车积木组件: 包含积木式的车身组件，理论上可搭建出任何形态，完整积木体系见末尾（专利授权）
 
