@@ -11,7 +11,7 @@
 - pcb：电路部分,电路图和pcb（排插小板，充电小板等详见pcb下的[README](/pcb/1比87系列/README.md)）
 - code：代码部分,主要是主控板所使用芯片（stm8s003）的控制程序（详见code下的[README](/code/1比87系列-STM32/README.md)）
 ### 保姆级教程
-- [【视频教程】套件焊接教程](https://www.bilibili.com/video/BV1zN4y1F7QH/?spm_id_from=333.999.0.0&vd_source=89cad0e1890ff49027d6a9f92e9147a6)
+- [【视频教程】套件焊接教程](https://www.bilibili.com/video/BV16s4y1m7GQ/?spm_id_from=333.999.0.0&vd_source=89cad0e1890ff49027d6a9f92e9147a6)
 - [【文档教程】改装套件使用教程](https://www.wolai.com/ksv9qGV1nwmhjUrozgD7f1)
 
 声明：以上种种开源材料均个人设计，时间能力有限并非全部最优，有bug或者更好的解决方案欢迎交流贡献，每个贡献者都会留下你们的名字哦
