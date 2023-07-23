@@ -24,22 +24,22 @@
 
 - 1、CubeIDE_WorkSpace_MiniCar中的zip代码压缩包导入CUBE IDE，点击file->import
 
-<img src="../docs/CUBE导入.jpg" width="400" height="300">
+<img src="../../docs/CUBE导入.jpg" width="400" height="300">
 
 - 2、选择zip代码压缩包
 
-<img src="../docs/选择zip文件.jpg" width="400" height="300">
+<img src="../../docs/选择zip文件.jpg" width="400" height="300">
 
 - 3、st link程序下载
 
-<img src="../docs/程序下载.jpg" width="400" height="500">
+<img src="../../docs/程序下载.jpg" width="400" height="500">
 
 - 4、swd方式与小板接线
 
-<img src="../docs/程序下载接线.jpg" width="400" height="400">
+<img src="../../docs/程序下载接线.jpg" width="400" height="400">
 
 - 5、swd配置
 
-<img src="../docs/swd配置.jpg" width="400" height="350">
+<img src="../../docs/swd配置.jpg" width="400" height="350">
 
 - 6、代码下载：点击Run->Run as->stm32 c/c++ application

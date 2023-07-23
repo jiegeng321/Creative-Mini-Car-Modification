@@ -9,7 +9,7 @@
 ### 1:87系列
 - 3D model:3D模型，改装小车所需的零件（齿轮，雨刮器等，详见3Dmodel下的[README](/3D_model/README.md)）
 - pcb：电路部分,电路图和pcb（排插小板，充电小板等详见pcb下的[README](/pcb/1比87系列/README.md)）
-- code：代码部分,主要是主控板所使用芯片（stm8s003）的控制程序（详见code下的[README](/code/1比87系列-STM32/README.md)）
+- code：代码部分,主要是主控板所使用芯片（stm8s003）的控制程序（详见code下的[README](/code/1比87系列-STM8/README.md)）
 ### 保姆级教程
 - [【视频教程】套件焊接教程](https://www.bilibili.com/video/BV16s4y1m7GQ/?spm_id_from=333.999.0.0&vd_source=89cad0e1890ff49027d6a9f92e9147a6)
 - [【文档教程】改装套件使用教程](https://www.wolai.com/ksv9qGV1nwmhjUrozgD7f1)
