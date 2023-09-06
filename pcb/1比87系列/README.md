@@ -17,10 +17,21 @@
 
 <img src="../../docs/1比87系列排插小板拼版.png" width="200" height="180"> <img src="../../docs/1比87系列排插小板拼版2.png" width="200" height="180">
 
+### 1:87系列主控小板
+- 基于STM8
+
+<img src="../../docs/1比87主控板pcd.jpg" width="200" height="180"> <img src="../../docs/1比87主控板IO说明.jpg" width="200" height="180">
+
+## 使用方法
+- 嘉立创绘制，打开嘉立创eda，导入即可，.epro或.zip格式都可导入
+
+<img src="../../docs/jlceda_input.png" width="280" height="180">
 
 ## 量产区up主福利
-- 嫌焊电路麻烦，该芯片组部分已半量产，有需要的同学可各平台 **@积木研究圆**私信或留言，咸鱼可能有，各模块已焊好，芯片已下好程序，并调试好
+- 懒得画电路敲代码可淘宝搜“积木研究圆的小车改装店”，有部分现成提供(随缘上架哦！)
+- 1:64芯片套件：[https://item.taobao.com/item.htm?ft=t&id=737362891443](https://item.taobao.com/item.htm?ft=t&id=737362891443)
+- 1:87改装套件：[https://item.taobao.com/item.htm?ft=t&id=737272654141](https://item.taobao.com/item.htm?ft=t&id=737272654141)
 
 - 量产芯片组套件长这样
 
-<img src="../../docs/套件封面.jpg" width="200" height="200"> <img src="../../docs/套件封面2.jpg" width="230" height="200">
+<img src="../../docs/套件封面.jpg" width="100" height="100"> <img src="../../docs/套件封面2.jpg" width="120" height="100">

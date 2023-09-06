@@ -10,9 +10,11 @@
 - 3D model:3D模型，改装小车所需的零件（齿轮，雨刮器等，详见3Dmodel下的[README](/3D_model/README.md)）
 - pcb：电路部分,电路图和pcb（排插小板，充电小板等详见pcb下的[README](/pcb/1比87系列/README.md)）
 - code：代码部分,主要是主控板所使用芯片（stm8s003）的控制程序（详见code下的[README](/code/1比87系列-STM8/README.md)）
-### 保姆级教程
-- [【视频教程】套件焊接教程](https://www.bilibili.com/video/BV16s4y1m7GQ/?spm_id_from=333.999.0.0&vd_source=89cad0e1890ff49027d6a9f92e9147a6)
-- [【文档教程】改装套件使用教程](https://www.wolai.com/ksv9qGV1nwmhjUrozgD7f1)
+### 真保姆级教程
+
+- [【文档&视频教程】小车改装教程资料全览](https://www.wolai.com/ksv9qGV1nwmhjUrozgD7f1)
+
+[//]: # (- [【视频教程】套件焊接教程]&#40;https://www.bilibili.com/video/BV16s4y1m7GQ/?spm_id_from=333.999.0.0&vd_source=89cad0e1890ff49027d6a9f92e9147a6&#41;)
 
 声明：以上种种开源材料均个人设计，时间能力有限并非全部最优，有bug或者更好的解决方案欢迎交流贡献，每个贡献者都会留下你们的名字哦
 
@@ -22,14 +24,29 @@
 
 2、小车改装涉及机械设计，电路设计，基本元器件使用，c编程，如果你是初入机械电子相关专业的大学生或是对这方面知识感兴趣的业余人士，这都是一个练手的绝佳机会
 
-## 二、准备工具
-<img src="./docs/tools.jpg" width="700" height="900" >
+## 二、主控小板简介
+- 1:64主控小板
+
+<img src="docs/主控小板IO说明.jpg" width="260" height="240"> <img src="docs/1比64遥控器说明2.png" width="300" height="240">
+
+- 1:64遥控最小系统（主控小板+充电开关小板+电池+红外接收）
+
+<img src="docs/1比64遥控最小系统.jpg" width="260" height="240">
+
+- 1:87主控小板
+
+<img src="docs/1比87主控板IO说明.jpg" width="300" height="240"> <img src="docs/1比87遥控器说明.jpg" width="270" height="240">
+
+- 1:87遥控最小系统（主控小板+充电开关小板+电池+红外接收）
+
+<img src="docs/1比87遥控最小系统.jpg" width="260" height="240">
 
 ## 三、开始改装
 
 ### 3.1、实战视频
 
 #### b站/抖音/小红书/等[@积木研究圆](https://space.bilibili.com/6888083?spm_id_from=333.1007.0.0)，持续更新，欢迎关注
+
 
 <img src="./docs/car20230722.png" width="180" height="105" >
 
@@ -143,8 +160,10 @@
 
 ## 四、获取
 
-通过开源的这些材料加上动手能力还行，即可完成自己的小车改装，如果嫌麻烦，作为量产区up主，电路部分（芯片组，包含各种电路板和一个红外接收头与遥控器），已半量产，咸鱼可能有，后续更新详细使用教程，有需要的同学可各平台 **@积木研究圆**私信或留言。
+- 懒得画电路敲代码可淘宝搜“积木研究圆的小车改装店”，有部分现成提供(随缘上架哦！)
+- 1:64芯片套件：[https://item.taobao.com/item.htm?ft=t&id=737362891443](https://item.taobao.com/item.htm?ft=t&id=737362891443)
+- 1:87改装套件：[https://item.taobao.com/item.htm?ft=t&id=737272654141](https://item.taobao.com/item.htm?ft=t&id=737272654141)
 
-量产芯片组套件长这样
+- 量产芯片组套件长这样
 
-<img src="./docs/套件封面.jpg" width="200" height="200"> <img src="./docs/套件封面2.jpg" width="230" height="200">
+<img src="./docs/套件封面.jpg" width="100" height="100"> <img src="./docs/套件封面2.jpg" width="120" height="100">
