@@ -35,11 +35,16 @@
 <img src="../../docs/jlceda_input.png" width="280" height="180">
 
 
-## 量产区up主福利
-- 懒得画电路敲代码可淘宝搜“积木研究圆的小车改装店”，有部分现成提供(随缘上架哦！)
-- 1:64芯片套件：[https://item.taobao.com/item.htm?ft=t&id=737362891443](https://item.taobao.com/item.htm?ft=t&id=737362891443)
-- 1:87改装套件：[https://item.taobao.com/item.htm?ft=t&id=737272654141](https://item.taobao.com/item.htm?ft=t&id=737272654141)
+[//]: # (## 量产区up主福利)
 
-- 量产芯片组套件长这样
+[//]: # (- 懒得画电路敲代码可淘宝搜“积木研究圆的小车改装店”，有部分现成提供&#40;随缘上架哦！&#41;)
 
-<img src="../../docs/套件封面.jpg" width="100" height="100"> <img src="../../docs/套件封面2.jpg" width="120" height="100">
+[//]: # (- 1:64芯片套件：[https://item.taobao.com/item.htm?ft=t&id=737362891443]&#40;https://item.taobao.com/item.htm?ft=t&id=737362891443&#41;)
+
+[//]: # (- 1:87改装套件：[https://item.taobao.com/item.htm?ft=t&id=737272654141]&#40;https://item.taobao.com/item.htm?ft=t&id=737272654141&#41;)
+
+[//]: # ()
+[//]: # (- 量产芯片组套件长这样)
+
+[//]: # ()
+[//]: # (<img src="../../docs/套件封面.jpg" width="100" height="100"> <img src="../../docs/套件封面2.jpg" width="120" height="100">)
