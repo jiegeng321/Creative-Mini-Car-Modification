@@ -2,15 +2,19 @@
 
 ## 开源目录
 
-### 1:64系列
+### 1:64系列-STM32红外遥控方案
 - 3D model:3D模型，改装小车所需的零件（齿轮，雨刮器等，详见3Dmodel下的[README](/3D_model/README.md)）
 - pcb：电路部分,电路图和pcb（主控小板，电源小板，驱动小板，充电小板等详见pcb下的[README](/pcb/1比64系列-STM32红外遥控方案/README.md)）
 - code：代码部分,主要是主控板所使用芯片（stm32f103）的控制程序（详见code下的[README](/code/1比64系列-STM32/README.md)）
-### 1:87系列
+### 1:64系列-2.4G8通道遥控方案
+- 3D model:3D模型，改装小车所需的零件（齿轮，雨刮器等，详见3Dmodel下的[README](/3D_model/README.md)）
+- pcb：电路部分,电路图和pcb（主控小板，电源小板，驱动小板，充电小板等详见pcb下的[README](/pcb/1比64系列-2.4G8通道遥控方案/README.md)）
+- code：无需编程，代码芯片内置集成
+### 1:87系列-STM8红外遥控方案
 - 3D model:3D模型，改装小车所需的零件（齿轮，雨刮器等，详见3Dmodel下的[README](/3D_model/README.md)）
 - pcb：电路部分,电路图和pcb（排插小板，充电小板等详见pcb下的[README](/pcb/1比87系列-STM8红外遥控方案/README.md)）
 - code：代码部分,主要是主控板所使用芯片（stm8s003）的控制程序（详见code下的[README](/code/1比87系列-STM8/README.md)）
-### 1:124坦克系列
+### 1:124坦克系列-STM8红外遥控方案
 - 3D model:3D模型，改装小车所需的零件（齿轮，驱动结构等，详见3Dmodel下的[README](/3D_model/README.md)）
 - pcb：电路部分,电路图和pcb（主控小板，充电小板等详见pcb下的[README](/pcb/1比124坦克系列-STM8红外遥控方案/README.md)）
 - code：代码部分,主要是主控板所使用芯片（stm8s003）的控制程序（详见code下的[README](/code/1比124坦克系列-STM8/README.md)）
