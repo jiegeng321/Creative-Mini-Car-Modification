@@ -3,6 +3,7 @@
 - [【图文&视频教程】改装套件使用教程](https://www.wolai.com/ksv9qGV1nwmhjUrozgD7f1)
 
 ### 1:41系列开关小板
+注意：该小板在很多地方可通用
 
 <img src="../../docs/1比41开关小板电路图.jpg" width="260" height="180"> <img src="../../docs/1比41开关小板3D图.jpg" width="240" height="180">
 
