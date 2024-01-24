@@ -1,6 +1,11 @@
 # 迷你小车改装遥控车教程
 
 ## 开源目录
+### 遥控方案简介
+<img src="./docs/遥控方案表格.png" width="700" height="600" >
+
+### 3D打印件方案简介
+<img src="./docs/3D打印件表格.png" width="700" height="450" >
 
 ### 1:64系列-STM32红外遥控方案
 - 3D model:3D模型，改装小车所需的零件（齿轮，雨刮器等，详见3Dmodel下的[README](/3D_model/README.md)）
