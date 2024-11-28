@@ -1,6 +1,11 @@
 # 迷你小车改装遥控车教程
 
 ## 开源目录
+###配套文档教程
+- [【文档&视频教程】小车改装教程资料全览](https://www.wolai.com/ksv9qGV1nwmhjUrozgD7f1)
+###如何购买（可选）
+- [【改装套件】遥控芯片+所有零件/耗材均有出售](https://shop106566255.taobao.com/?spm=pc_detail.29232929.shop_block.dshopinfo.2f4b7dd69BJbB1)
+- 注意：有相关专业知识和较强动手能力可在开源项目和视频/教程的帮助下不用套件也可复现视频中改装小车，购买套件仅省些麻烦，也算是对博主支持！
 ### 遥控方案简介
 <img src="./docs/遥控方案表格.png" width="700" height="600" >
 
@@ -26,9 +31,11 @@
 ### 小车改装工具系列-多头多功能电钻
 - 3D model:3D模型，在文件夹小车改装工具系列-多头多功能电钻中，详见3Dmodel下的[README](/3D_model/README.md)）
 - pcb：电路部分,电路图和pcb，在文件夹小车改装工具系列-多头多功能电钻中（详见pcb下的[README](/pcb/1比124坦克系列-STM8红外遥控方案/README.md)）
-### 真保姆级教程
 
-- [【文档&视频教程】小车改装教程资料全览](https://www.wolai.com/ksv9qGV1nwmhjUrozgD7f1)
+[//]: # (### 真保姆级教程)
+
+[//]: # ()
+[//]: # (- [【文档&视频教程】小车改装教程资料全览]&#40;https://www.wolai.com/ksv9qGV1nwmhjUrozgD7f1&#41;)
 
 [//]: # (- [【视频教程】套件焊接教程]&#40;https://www.bilibili.com/video/BV16s4y1m7GQ/?spm_id_from=333.999.0.0&vd_source=89cad0e1890ff49027d6a9f92e9147a6&#41;)
 
