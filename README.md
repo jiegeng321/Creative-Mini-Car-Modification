@@ -10,10 +10,10 @@
 
 ### 遥控方案简介
 
-<img src="./docs/遥控方案表格.png" width="700" height="600" >
+<img src="./docs/遥控方案表格2.png" width="700" height="700" >
 
 ### 3D打印件方案简介
-<img src="./docs/3D打印件表格.png" width="700" height="450" >
+<img src="./docs/3D打印件表格2.png" width="700" height="360" >
 
 ### 1:64系列-STM32红外遥控方案
 - 3D model:3D模型，改装小车所需的零件（齿轮，雨刮器等，详见3Dmodel下的[README](/3D_model/README.md)）
@@ -31,6 +31,8 @@
 - 3D model:3D模型，改装小车所需的零件（齿轮，驱动结构等，详见3Dmodel下的[README](/3D_model/README.md)）
 - pcb：电路部分,电路图和pcb（主控小板，充电小板等详见pcb下的[README](/pcb/1比124坦克系列-STM8红外遥控方案/README.md)）
 - code：代码部分,主要是主控板所使用芯片（stm8s003）的控制程序（详见code下的[README](/code/1比124坦克系列-STM8/README.md)）
+### 1:32-64通用系列-ESP32蓝牙遥控方案（更新中）
+
 ### 小车改装工具系列-多头多功能电钻
 - 3D model:3D模型，在文件夹小车改装工具系列-多头多功能电钻中，详见3Dmodel下的[README](/3D_model/README.md)）
 - pcb：电路部分,电路图和pcb，在文件夹小车改装工具系列-多头多功能电钻中（详见pcb下的[README](/pcb/1比124坦克系列-STM8红外遥控方案/README.md)）
@@ -50,7 +52,7 @@
 
 2、小车改装涉及机械设计，电路设计，基本元器件使用，c编程，如果你是初入机械电子相关专业的大学生或是对这方面知识感兴趣的业余人士，这都是一个练手的绝佳机会
 
-## 二、主控小板简介
+## 二、主控小板简介（部分）
 - 1:64主控小板
 
 <img src="docs/主控小板IO说明.jpg" width="260" height="240"> <img src="docs/1比64遥控器说明2.png" width="300" height="240">
