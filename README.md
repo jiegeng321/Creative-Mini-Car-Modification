@@ -17,6 +17,7 @@
 
 <img src="./docs/1比87系列打印件整版.png" width="400" height="400" >
 
+其余方案整理中。。。
 ### 遥控方案简介
 
 <img src="./docs/遥控方案表格2.png" width="700" height="700" >
