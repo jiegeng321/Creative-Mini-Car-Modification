@@ -8,6 +8,15 @@
 - [【改装套件】遥控芯片+所有零件/耗材均有出售](https://shop106566255.taobao.com/?spm=pc_detail.29232929.shop_block.dshopinfo.2f4b7dd69BJbB1)
 - 注意：有相关专业知识和较强动手能力可在开源项目和视频/教程的帮助下不用套件也可复现视频中改装小车，购买套件仅省些麻烦，也算是对博主支持！
 
+### 快捷下载
+1:64 v2系列:[点击下载](3D_model/1比64 v2系列整版/1比64系列v2整套.stl)
+
+<img src="./docs/1比64 v2系列打印件整版.png" width="400" height="400" >
+
+1:87系列:
+
+<img src="./docs/1比87系列打印件整版.png" width="400" height="400" >
+
 ### 遥控方案简介
 
 <img src="./docs/遥控方案表格2.png" width="700" height="700" >
