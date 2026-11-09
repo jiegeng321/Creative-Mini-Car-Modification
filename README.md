@@ -17,6 +17,13 @@
 
 <img src="./docs/1比87系列打印件整版.png" width="400" height="400" >
 
+1:41系列:[点击下载](3D_model/1比41系列2代/stl/1比41系列整套.stl)
+
+<img src="./docs/1比41系列.png" width="400" height="400" >
+
+1:32-64系列:[点击下载](3D_model/1比32-64系列/1比32至64整套完整版v3.stl)
+
+<img src="./docs/1比32-64系列.png" width="400" height="400" >
 其余方案整理中。。。
 ### 遥控方案简介
 
